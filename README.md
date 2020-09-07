@@ -7,3 +7,5 @@
 - 📊 I’m also interest in datascience with python 🐍
 - 📫 You can reach me by email or any of my social profiles
 - ⚡ Fun fact: I got an chemistry background 👨‍🔬
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernandobelotto)](https://github.com/fernandobelotto)
