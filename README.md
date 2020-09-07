@@ -1,4 +1,4 @@
-### Hi nice to meet! 👋 you can call me Fer.
+### Hi, nice to meet! 👋 you can call me Fer.
 
 
 - 👨‍💻 I'm an front end developer
