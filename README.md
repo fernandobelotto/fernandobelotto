@@ -1,9 +1,9 @@
 ### Hi nice to meet! 👋 you can call me Fer.
 
 
-- 👨‍💻 I'm an Frontend developer
+- 👨‍💻 I'm an front end developer
 - 🚀 Who is currently working at MBLabs 
 - 🖥 With technologies like Angular and ReactJS
-- 📊 I’m also interest in datascience with python 
+- 📊 I’m also interest in datascience with Python 
 - 📫 You can reach me by email or any of my social profiles
 - ⚡ Fun fact: I got an chemistry background 👨‍🔬
