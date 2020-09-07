@@ -1,6 +1,5 @@
 ### Hi nice to meet! 👋 you can call me Fer.
 
-Here are some ideas to get you started:
 
 - 👨‍💻 I'm an Frontend developer
 - 🚀 Who is currently working at MBLabs 
