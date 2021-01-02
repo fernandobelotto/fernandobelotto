@@ -1,4 +1,4 @@
-### Hi, nice to meet you! 👋 I'm Fernando Belotto
+### Hi, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Fernando Belotto
 
 
 - 👨‍💻 I'm an front end developer
