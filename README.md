@@ -8,7 +8,7 @@
 - 📫 Let talk about technology! you can reach me by email or any of my social profiles.
 - ⚡ Fun fact: I got an chemistry background 👨‍🔬
 
-#### Find me here:
+#### Find me on:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fernandobeloto)](https://twitter.com/fernandobeloto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-gabriel-bosco)](https://www.linkedin.com/in/fernando-gabriel-bosco)
 
