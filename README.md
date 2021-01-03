@@ -1,3 +1,5 @@
+<img src="https://ouch-cdn.icons8.com/preview/699/4042b70a-7bc7-4607-81e1-a4e843c8b009.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 ### Hi, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Fernando Belotto
 
 
@@ -15,3 +17,5 @@
 #### Check some of my translations here 👇
 
 [React-Redux](https://fernandobelotto.github.io/react-redux)
+
+Illustration by <a href="https://dribbble.com/thierryfousse">Thierry Fousse</a>
