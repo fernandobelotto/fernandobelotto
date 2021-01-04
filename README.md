@@ -17,6 +17,6 @@
 #### Check some of my translations here 👇
 
 [React-Redux](https://fernandobelotto.github.io/react-redux) <br/>
-[Creat-React-App](https://fernandobelotto.github.io/create-react-app) [in progress]
+[Creat-React-App](https://fernandobelotto.github.io/create-react-app) <br/>
 
 Illustration by <a href="https://dribbble.com/thierryfousse">Thierry Fousse</a>
