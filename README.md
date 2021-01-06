@@ -18,6 +18,6 @@
 
 [React-Redux](https://fernandobelotto.github.io/react-redux) <br/>
 [Creat-React-App](https://fernandobelotto.github.io/create-react-app) <br/>
-[Redux-Toolkit](https://fernandobelotto.github.io/redux-toolkik) [in progress] <br/>
+[Redux-Toolkit](https://fernandobelotto.github.io/redux-toolkit) [in progress] <br/>
 
 Illustration by <a href="https://dribbble.com/thierryfousse">Thierry Fousse</a>
