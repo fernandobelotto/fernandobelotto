@@ -3,7 +3,7 @@
 ### Hi, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Fernando Belotto
 
 
-- 👨‍💻 I'm an **front end developer**
+- 👨‍💻 I'm an **frontend engineer**
 - 🚀 who is currently working at _MBLabs_
 - 🖥📱 with technologies like ReactJS, React Native and .NET Core
 - 📫 Let talk about technology! you can reach me by email or any of my social profiles.
