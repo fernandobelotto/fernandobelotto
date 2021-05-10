@@ -4,8 +4,7 @@
 
 
 - 👨‍💻 I'm an **frontend engineer**
-- 🚀 Who is currently working at _MBLabs_
-- 🖥📱 With technologies like ReactJS, React Native and .NET Core
+- 🚀 Who is currently working at _dLocal_
 - 📫 Let talk about technology! you can reach me by email or any of my social profiles.
 - ⚡ Fun fact: I got an chemistry background 👨‍🔬
 
