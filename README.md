@@ -1,6 +1,6 @@
 <img src="https://ouch-cdn.icons8.com/preview/699/4042b70a-7bc7-4607-81e1-a4e843c8b009.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, nice to meet you! </br> I'm Fernando Belotto
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, </br> I'm Fernando Belotto!
 
 
 - 👨‍💻 I'm an **frontend engineer**
