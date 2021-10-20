@@ -1,4 +1,4 @@
-<img src="harpy-eagle_darkbg.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="harpy-eagle_transparent.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## Hi, I'm Fernando Belotto!
 
