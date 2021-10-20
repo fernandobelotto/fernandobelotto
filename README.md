@@ -18,7 +18,7 @@
 [Creat-React-App](https://fernandobelotto.github.io/create-react-app) <br/>
 [Redux-Toolkit](https://fernandobelotto.github.io/redux-toolkit) [in progress] <br/>
 
-Illustration by <a href="https://dribbble.com/thierryfousse">Thierry Fousse</a>
+Illustration by <a href="https://www.artstation.com/artwork/KanrLR">Lilly C.</a>
 
 <br/>[![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandobelotto&count_private=true&count_private=true&theme=tokyonight)](https://github.com/fernandobelotto/github-readme-stats)
 
