@@ -3,10 +3,10 @@
 ## Hi, I'm Fernando Belotto!
 
 
-- 👨‍💻 I'm an **software engineer**
-- 🚀 Who is currently working at _dLocal_
-- 📫 So lets talk about technology! you can reach me by email or any of my social profiles.
-- 👨‍🔬 Fun fact: I got an chemistry background
+- 👨‍💻  I'm an **software engineer**
+- 🚀  Who is currently working at _dLocal_
+- 📫  So lets talk about technology! you can reach me by email or any of my social profiles.
+- 👨‍🔬  Fun fact: I got an chemistry background
 
 #### Find me on:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-gabriel-bosco)](https://www.linkedin.com/in/fernando-gabriel-bosco)
