@@ -3,9 +3,9 @@
 ## Hi, I'm Fernando Belotto!
 
 
-- 👨‍💻  I'm an **software engineer**
-- 🚀  Who is currently working at _dLocal_
-- 📫  So lets talk about technology! you can reach me by email or any of my social profiles.
+- 👨‍💻  I'm an **software engineer** working 
+- 🚀  Who is currently working at _dLocal_ in projects involving typescript, react, golang and quarkus
+- 📫  lets talk about technology! you can reach me by email at any time
 - 👨‍🔬  Fun fact: I got an chemistry background
 
 #### Find me on:
@@ -17,8 +17,6 @@
 [React-Redux](https://fernandobelotto.github.io/react-redux) <br/>
 [Creat-React-App](https://fernandobelotto.github.io/create-react-app) <br/>
 [Redux-Toolkit](https://fernandobelotto.github.io/redux-toolkit) [in progress] <br/>
-
-Illustration by <a href="https://www.artstation.com/artwork/KanrLR">Lilly C.</a>
 
 <br/>[![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandobelotto&count_private=true&count_private=true&theme=tokyonight)](https://github.com/fernandobelotto/github-readme-stats)
 
