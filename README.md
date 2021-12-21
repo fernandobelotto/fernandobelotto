@@ -17,7 +17,3 @@
 [React-Redux](https://fernandobelotto.github.io/react-redux) <br/>
 [Creat-React-App](https://fernandobelotto.github.io/create-react-app) <br/>
 [Redux-Toolkit](https://fernandobelotto.github.io/redux-toolkit) [in progress] <br/>
-
-<br/>[![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandobelotto&count_private=true&count_private=true&theme=tokyonight)](https://github.com/fernandobelotto/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobelotto&layout=compact&theme=tokyonight)](https://github.com/fernandobelotto/github-readme-stats)
