@@ -3,7 +3,7 @@
 ## Hi, I'm Fernando Belotto!
 
 
-- 👨‍💻  I'm an **software engineer** working 
+- 👨‍💻  I'm an **software engineer**  
 - 🚀  Who is currently working at _dLocal_ in projects involving typescript, react, golang and quarkus
 - 📫  lets talk about technology! you can reach me by email at any time
 - 👨‍🔬  Fun fact: I got an chemistry background
