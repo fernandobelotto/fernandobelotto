@@ -14,6 +14,19 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-gabriel-bosco)](https://www.linkedin.com/in/fernando-gabriel-bosco)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com/channel/UCeEmRnNnWQitX_DJfCUpygA)
 
+
+### Awesome websites
+
+Checkout some of the websites that i created base on 'awesome' repos using [docusaurus v2](https://docusaurus.io/)
+
+[Awesome Go](https://go-awesome.vercel.app) <br/>
+[Awesome Flutter](https://flutter-awesome.vercel.app) <br/>
+[Awesome React](https://react-awesome.vercel.app)  <br/>
+[Awesome Redux](https://redux-awesome.vercel.app)  <br/>
+[Awesome Spellbook](https://spellbook-awesome.vercel.app)  <br/>
+
+
+
 #### Check some of my translations here 👇
 
 [React-Redux](https://fernandobelotto.github.io/react-redux) <br/>
