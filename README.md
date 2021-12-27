@@ -10,7 +10,10 @@
 - 📫  lets talk about technology! you can reach me by email at any time
 - 👨‍🔬  Fun fact: I got an chemistry background
 
-### Find me on:
+#### You can check more info at:
+###  [fernandobelotto.dev](https://fernandobelotto.dev)
+
+#### You can also find me on:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-gabriel-bosco)](https://www.linkedin.com/in/fernando-gabriel-bosco)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com/channel/UCeEmRnNnWQitX_DJfCUpygA)
 
