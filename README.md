@@ -1,6 +1,6 @@
 
 
-## Hi, I'm Fernando Belotto!
+# Hi, I'm Fernando Belotto!
 
 
 - 👨‍💻  I'm an **software engineer**  
@@ -10,12 +10,12 @@
 - 📫  lets talk about technology! you can reach me by email at any time
 - 👨‍🔬  Fun fact: I got an chemistry background
 
-#### Find me on:
+### Find me on:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-gabriel-bosco)](https://www.linkedin.com/in/fernando-gabriel-bosco)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com/channel/UCeEmRnNnWQitX_DJfCUpygA)
 
 
-### Awesome websites
+## Awesome websites
 
 Checkout some of the websites that i created base on 'awesome' repos using [docusaurus v2](https://docusaurus.io/)
 
@@ -28,8 +28,9 @@ Checkout some of the websites that i created base on 'awesome' repos using [docu
 [Awesome Nodejs](https://nodejs-awesome.vercel.app)  <br/>
 [Awesome Swift](https://swift-awesome.vercel.app)  <br/>
 
+## Translations
 
-#### Check some of my translations here 👇
+Check some of my translations here 👇
 
 [React-Redux](https://fernandobelotto.github.io/react-redux) <br/>
 [Creat-React-App](https://fernandobelotto.github.io/create-react-app) <br/>
