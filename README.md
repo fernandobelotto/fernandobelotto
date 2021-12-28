@@ -10,6 +10,11 @@
 - 📫  lets talk about technology! you can reach me by email at any time
 - 👨‍🔬  Fun fact: I got an chemistry background
 
+[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/fernandobelotto)](https://github.com/fernandobelotto)&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-gabriel-bosco/)](https://www.linkedin.com/in/fernando-gabriel-bosco/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:fernando.bbosco@gmail.com)](mailto:fernando.bbosco@gmail.com)&nbsp;
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=flat&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519997773727)](https://api.whatsapp.com/send?phone=5519997773727)&nbsp;
+
 #### You can check more info at:
 ###  [fernandobelotto.dev](https://fernandobelotto.dev)
 
