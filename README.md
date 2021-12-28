@@ -39,7 +39,7 @@ Checkout some of the websites that i created base on 'awesome' repos using [docu
 [Awesome Nodejs](https://nodejs-awesome.vercel.app)  <br/>
 [Awesome Swift](https://swift-awesome.vercel.app)  <br/>
 [Awesome Secret Knowledge](https://knowledge-awesome.vercel.app)  <br/>
-Awesome Javascript - in progress <br/>
+[Awesome Javascript](https://javascript-awesome.vercel.app)  <br/>
 Awesome Java - in progress
 
 ## Translations
