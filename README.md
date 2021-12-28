@@ -30,7 +30,7 @@ Checkout some of the websites that i created base on 'awesome' repos using [docu
 [Awesome React Native](https://react-native-awesome.vercel.app)  <br/>
 [Awesome Nodejs](https://nodejs-awesome.vercel.app)  <br/>
 [Awesome Swift](https://swift-awesome.vercel.app)  <br/>
-Awesome Javascript - in progress
+Awesome Javascript - in progress <br/>
 Awesome Java - in progress
 
 ## Translations
