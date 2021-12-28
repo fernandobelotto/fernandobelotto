@@ -14,7 +14,7 @@
 
 
 
-#### techs that i have worked
+#### Experience working with
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![NextJs](https://img.shields.io/badge/-Nextjs-ffffff?style=flat&logoColor=fff&logo=nextjs)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;<br/>
@@ -24,12 +24,7 @@
 
 
 #### You can check more info at:
-###  [fernandobelotto.dev](https://fernandobelotto.dev)
-
-#### You can also find me on:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-gabriel-bosco)](https://www.linkedin.com/in/fernando-gabriel-bosco)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com/channel/UCeEmRnNnWQitX_DJfCUpygA)
-
+##  [fernandobelotto.dev](https://fernandobelotto.dev)
 
 ## Awesome websites
 
