@@ -17,7 +17,7 @@
 #### Experience working with
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![NextJs](https://img.shields.io/badge/-Nextjs-ffffff?style=flat&logoColor=fff&logo=nextjs)&nbsp;
-![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;<br/>
+![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-84D6F8?style=flat&logoColor=fff&logo=flutter)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsby-643195?style=flat&logoColor=fff&logo=gatsby)&nbsp;
