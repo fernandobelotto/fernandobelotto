@@ -26,22 +26,6 @@
 #### You can check more info at:
 ##  [fernandobelotto.dev](https://fernandobelotto.dev)
 
-## Awesome websites
-
-Checkout some of the websites that i created base on 'awesome' repos using [docusaurus v2](https://docusaurus.io/)
-
-[Awesome Go](https://go-awesome.vercel.app) <br/>
-[Awesome Flutter](https://flutter-awesome.vercel.app) <br/>
-[Awesome React](https://react-awesome.vercel.app)  <br/>
-[Awesome Redux](https://redux-awesome.vercel.app)  <br/>
-[Awesome Spellbook](https://spellbook-awesome.vercel.app)  <br/>
-[Awesome React Native](https://react-native-awesome.vercel.app)  <br/>
-[Awesome Nodejs](https://nodejs-awesome.vercel.app)  <br/>
-[Awesome Swift](https://swift-awesome.vercel.app)  <br/>
-[Awesome Secret Knowledge](https://knowledge-awesome.vercel.app)  <br/>
-[Awesome Javascript](https://javascript-awesome.vercel.app)  <br/>
-Awesome Java - in progress
-
 ## Translations
 
 Check some of my translations here 👇
