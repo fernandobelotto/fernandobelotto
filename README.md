@@ -25,11 +25,3 @@
 
 #### You can check more info at:
 ##  [fernandobelotto.dev](https://fernandobelotto.dev)
-
-## Translations
-
-Check some of my translations here 👇
-
-[React-Redux](https://fernandobelotto.github.io/react-redux) <br/>
-[Creat-React-App](https://fernandobelotto.github.io/create-react-app) <br/>
-[Redux-Toolkit](https://fernandobelotto.github.io/redux-toolkit) [in progress] <br/>
