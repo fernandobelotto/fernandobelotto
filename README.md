@@ -23,5 +23,5 @@
 ![Gatsby](https://img.shields.io/badge/-Gatsby-643195?style=flat&logoColor=fff&logo=gatsby)&nbsp;
 
 
-#### You can check more about me, my projects and other cool stuff at:
-##  [fernandobelotto.dev](https://fernandobelotto.dev)
+#### You can check more about me, my projects and other cool stuff at 👇
+#  [fernandobelotto.dev](https://fernandobelotto.dev)
