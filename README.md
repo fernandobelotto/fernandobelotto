@@ -24,7 +24,8 @@
 
 
 #### You can check more about me, my projects and other cool stuff at 👇
-#  [fernandobelotto.dev](https://fernandobelotto.dev)
+##  [fernandobelotto.dev](https://fernandobelotto.dev)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fernandobelotto&theme=github-dark&date_format=j%20M%5B%20Y%5D)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fernandobelotto&theme=github-dark&date_format=j%20M%5B%20Y%5D)
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandobelotto&theme=github_dark&show_icons=true)
+ -->
