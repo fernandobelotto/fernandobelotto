@@ -10,7 +10,7 @@
 - 📚  I got experience working with all the major web frameworks (react, vue and angualar), mobile dev with react-native and also nodejs (all in typescript)
 - 📝  Right now i'm studying mobile development with flutter
 - 📫  lets talk about technology! you can reach me by email at any time
-- 👨‍🔬  Fun fact: I got an chemistry background
+- 👨‍🔬  Fun fact: I came from a chemistry background
 
 
 
