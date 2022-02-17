@@ -5,6 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-gabriel-bosco/)](https://www.linkedin.com/in/fernando-gabriel-bosco/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:fernando.bbosco@gmail.com)](mailto:fernando.bbosco@gmail.com)&nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=flat&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519997773727)](https://api.whatsapp.com/send?phone=5519997773727)&nbsp;
+![](https://komarev.com/ghpvc/?username=fernandobelotto)
 
 - 🚀  I am currently working at [dLocal](https://dlocal.com) in projects involving typescript, react, golang and quarkus
 
@@ -30,8 +31,6 @@
 
 #### You can check more about me, my projects and other cool stuff at 👇
 ##  [fernandobelotto.dev](https://fernandobelotto.dev)
-
-![](https://komarev.com/ghpvc/?username=fernandobelotto)
 
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fernandobelotto&theme=github-dark&date_format=j%20M%5B%20Y%5D)
