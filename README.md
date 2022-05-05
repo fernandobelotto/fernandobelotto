@@ -8,7 +8,7 @@
 
 - 🚀  I work at [dLocal](https://dlocal.com) in projects for the payment industry
 
-- 📚  My experience is with both front and backend development, using technologies like react, nodejs, typescript, spring and quarkus.
+- 📚  My experience is with both front and backend development, using technologies like react, nodejs, typescript, java, go and more technologies.
 
 - 📝  I'm currently interested in performance and enhanced web experience in mobile devices with PWA's ans service workers
 
