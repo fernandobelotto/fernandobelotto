@@ -8,7 +8,7 @@
 
 - 🚀  I work as a software engineer at [dLocal](https://dlocal.com) in projects for the payment industry
 
-- 🚀  I teach fullstack development at [LetsCode](https://letscode.com.br/) for incredible students.
+- 👨‍🏫  I teach fullstack development at [LetsCode](https://letscode.com.br/) for incredible students.
 
 - 📚  My experience is with both front and backend development, using technologies like react, nodejs, typescript, java, go and more technologies.
 
