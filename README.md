@@ -6,7 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:fernando.bbosco@gmail.com)](mailto:fernando.bbosco@gmail.com)&nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=flat&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519997773727)](https://api.whatsapp.com/send?phone=5519997773727)&nbsp;
 
-- 🚀  I work at [dLocal](https://dlocal.com) in projects for the payment industry
+- 🚀  I work as a software engineer at [dLocal](https://dlocal.com) in projects for the payment industry
+
+- 🚀  I teach fullstack development at [LetsCode](https://letscode.com.br/) for incredible students.
 
 - 📚  My experience is with both front and backend development, using technologies like react, nodejs, typescript, java, go and more technologies.
 
