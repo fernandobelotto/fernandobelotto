@@ -1,7 +1,4 @@
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/38187170/184550786-4111c490-22c3-4a68-ab25-42925f67de2b.gif)
-
-
 # Fernando Belotto!
 
 ### I help companies deliver great solutions, i help developers build great software
@@ -16,9 +13,7 @@
 
 - Also, i'm a professor of fullstack development at [Ada](https://letscode.com.br/)
 
-- My experience is with both front and backend development, using technologies like react, nodejs, typescript, java, go and more technologies.
-
-- I'm currently interested in performance and enhanced web experience and the web3 technologies
+- My experience is with both front and backend development, using technologies like react, node, graphql, go and more technologies.
 
 - You can reach me at any time by email or any other method
 
