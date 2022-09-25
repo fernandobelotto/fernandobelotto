@@ -11,7 +11,7 @@
 
 - I work as a software engineer at [FastBitcoins](https://FastBitcoins.com)
 
-- Also, i'm a professor of fullstack development at [Ada](https://letscode.com.br/)
+- Also, i'm a professor at [Ada](https://letscode.com.br/)
 
 - My experience is with both front and backend development, using technologies like react, node, graphql, go and more technologies.
 
