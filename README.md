@@ -9,7 +9,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=flat&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519997773727)](https://api.whatsapp.com/send?phone=5519997773727)&nbsp;
 
 
-- I work as a software engineer at [FastBitcoins](https://FastBitcoins.com)
+- I work as a software engineer at [AAO Holdings Ltd.](https://www.linkedin.com/company/aao-holdings-ltd/mycompany/)
 
 - I'm a professor at [Ada](https://letscode.com.br/)
 
