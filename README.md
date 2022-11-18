@@ -10,7 +10,7 @@
 
 
 - Fernando is a software engineer working full-time at [AAO Holdings Ltd.](https://www.linkedin.com/company/aao-holdings-ltd/mycompany/)
-- He is also teaches programming at [Ada Tech](https://letscode.com.br/)
+- He also teaches programming at [Ada Tech](https://letscode.com.br/)
 - His experience is with both web and mobile technologies like react, react-native, node, graphql and more.
 - You can reach him at any time from his website
 
