@@ -1,6 +1,7 @@
 
 # Fernando Belotto
-  Software engineer and Educator
+
+## Software engineer and Educator
 
 > helping companies build outstanding products and helping developers write great code
 
