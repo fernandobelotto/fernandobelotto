@@ -6,5 +6,5 @@
   />
 </a>
 
-[Learn more about Fernando Belotto](https://fernandobelotto.com)
+[Check it out more from Belotto](https://linktr.ee/fernandobelotto)
 
