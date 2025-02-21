@@ -6,5 +6,5 @@
   />
 </a>
 
-[Check it out more from Belotto](https://linktr.ee/fernandobelotto)
+[Check it out more](https://fernandobelotto.com)
 
